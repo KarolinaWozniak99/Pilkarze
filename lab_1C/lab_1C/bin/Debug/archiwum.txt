@@ -1,0 +1,3 @@
+Amadeusz|Zings|49|66
+Wojciech|Kowalczyk|45|81
+Adam|Kowal|32|95

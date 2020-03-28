@@ -1,0 +1,34 @@
+C:\Users\adam.zielonka\source\repos\lab_1C\lab_1C\bin\Debug\lab_1C.exe.config
+C:\Users\adam.zielonka\source\repos\lab_1C\lab_1C\bin\Debug\lab_1C.exe
+C:\Users\adam.zielonka\source\repos\lab_1C\lab_1C\bin\Debug\lab_1C.pdb
+C:\Users\adam.zielonka\source\repos\lab_1C\lab_1C\obj\Debug\lab_1C.csprojAssemblyReference.cache
+C:\Users\adam.zielonka\source\repos\lab_1C\lab_1C\obj\Debug\MainWindow.g.cs
+C:\Users\adam.zielonka\source\repos\lab_1C\lab_1C\obj\Debug\App.g.cs
+C:\Users\adam.zielonka\source\repos\lab_1C\lab_1C\obj\Debug\lab_1C_MarkupCompile.cache
+C:\Users\adam.zielonka\source\repos\lab_1C\lab_1C\obj\Debug\lab_1C_MarkupCompile.lref
+C:\Users\adam.zielonka\source\repos\lab_1C\lab_1C\obj\Debug\MainWindow.baml
+C:\Users\adam.zielonka\source\repos\lab_1C\lab_1C\obj\Debug\lab_1C.g.resources
+C:\Users\adam.zielonka\source\repos\lab_1C\lab_1C\obj\Debug\lab_1C.Properties.Resources.resources
+C:\Users\adam.zielonka\source\repos\lab_1C\lab_1C\obj\Debug\lab_1C.csproj.GenerateResource.cache
+C:\Users\adam.zielonka\source\repos\lab_1C\lab_1C\obj\Debug\lab_1C.exe
+C:\Users\adam.zielonka\source\repos\lab_1C\lab_1C\obj\Debug\lab_1C.pdb
+C:\Users\adam.zielonka\source\repos\lab_1C\lab_1C\obj\Debug\TextBoxWithErrorProvider.g.cs
+C:\Users\adam.zielonka\source\repos\lab_1C\lab_1C\obj\Debug\TextBoxWithErrorProvider.baml
+C:\Users\adam.zielonka\source\repos\lab_1C\lab_1C\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LENOVO\Desktop\Studia 3\lab_1C\lab_1C\bin\Debug\lab_1C.exe.config
+C:\Users\LENOVO\Desktop\Studia 3\lab_1C\lab_1C\bin\Debug\lab_1C.exe
+C:\Users\LENOVO\Desktop\Studia 3\lab_1C\lab_1C\bin\Debug\lab_1C.pdb
+C:\Users\LENOVO\Desktop\Studia 3\lab_1C\lab_1C\obj\Debug\lab_1C.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Studia 3\lab_1C\lab_1C\obj\Debug\MainWindow.g.cs
+C:\Users\LENOVO\Desktop\Studia 3\lab_1C\lab_1C\obj\Debug\TextBoxWithErrorProvider.g.cs
+C:\Users\LENOVO\Desktop\Studia 3\lab_1C\lab_1C\obj\Debug\App.g.cs
+C:\Users\LENOVO\Desktop\Studia 3\lab_1C\lab_1C\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LENOVO\Desktop\Studia 3\lab_1C\lab_1C\obj\Debug\lab_1C_MarkupCompile.cache
+C:\Users\LENOVO\Desktop\Studia 3\lab_1C\lab_1C\obj\Debug\lab_1C_MarkupCompile.lref
+C:\Users\LENOVO\Desktop\Studia 3\lab_1C\lab_1C\obj\Debug\MainWindow.baml
+C:\Users\LENOVO\Desktop\Studia 3\lab_1C\lab_1C\obj\Debug\TextBoxWithErrorProvider.baml
+C:\Users\LENOVO\Desktop\Studia 3\lab_1C\lab_1C\obj\Debug\lab_1C.g.resources
+C:\Users\LENOVO\Desktop\Studia 3\lab_1C\lab_1C\obj\Debug\lab_1C.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Studia 3\lab_1C\lab_1C\obj\Debug\lab_1C.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Studia 3\lab_1C\lab_1C\obj\Debug\lab_1C.exe
+C:\Users\LENOVO\Desktop\Studia 3\lab_1C\lab_1C\obj\Debug\lab_1C.pdb
